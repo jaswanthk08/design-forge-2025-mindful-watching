@@ -1,16 +1,16 @@
 # FlowPause – Mindful Watching Without Killing Engagement
 
 ## 🔗 Figma Link
-> Paste your Figma link here after sharing with “Anyone with the link can view”
+> (https://www.figma.com/design/YUODzXvLQEDL3a1AnG5bgB/design-forge-2025-mindful-watching?node-id=0-1&t=zc6tYzuU8nryRiR9-1)
 
 ## 📸 Screenshots
-![Screen 1](./screenshots/screen1.png)  
+![Screen 1]()  
 *Main video screen with soft session reminder*
 
-![Screen 2](./screenshots/screen2.png)  
+![Screen 2]()  
 *Break modal with resume/remind options*
 
-![Screen 3](./screenshots/screen3.png)  
+![Screen 3]()  
 *Settings screen with "Mindful Mode" toggle*
 
 ---
