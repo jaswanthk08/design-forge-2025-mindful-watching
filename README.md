@@ -4,13 +4,13 @@
 > (https://www.figma.com/design/YUODzXvLQEDL3a1AnG5bgB/design-forge-2025-mindful-watching?node-id=0-1&t=zc6tYzuU8nryRiR9-1)
 
 ## 📸 Screenshots
-![figma1.png]()  
+![Figma 1](figma1.png)  
 *Main video screen with soft session reminder*
 
-![Figma 2]()  
+![Figma 2](figma2.png)  
 *Break modal with resume/remind options*
 
-![Figma 3]()  
+![Figma 3](figma3.png)  
 *Settings screen with "Mindful Mode" toggle*
 
 ---
